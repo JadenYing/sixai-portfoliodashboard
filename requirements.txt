@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+requests
+altair
+openpyxl
+polygon-api-client
+python-dateutil
+pytz
